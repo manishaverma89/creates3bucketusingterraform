@@ -1,0 +1,2 @@
+# creates3bucketusingterraform
+practicing terraform
